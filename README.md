@@ -9,9 +9,11 @@ Initially i've created the following structure:
 ```
 +---PowerShell-Utilities
 |   +--- AD
+|   |   +--- README.md
 |   |   +--- File1.ps1
 |   |   +--- File2.ps1
 |   +--- Azure
+|   |   +--- README.md
 |   |   +--- File1.ps1
 |   |   +--- File2.ps1
 ```
